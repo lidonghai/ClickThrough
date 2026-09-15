@@ -9,5 +9,5 @@ Key Features:
 * Smart Filtering: Automatically ignores invisible, tiny, and system desktop/taskbar elements.
 * Visual Feedback: Shows a temporary ToolTip displaying the newly activated window's title.
 
-99% credit goes to Gemini！
-Thanks,Gemini.
+90% credit goes to Gemini(source code), 10% to Chatgpt(.ico file).
+
